@@ -31,7 +31,7 @@ ROTY Modeling.ipynb: Notebook for data processing, feature engineering, model tr
 ## License
 This project is licensed under the MIT License.
 
-##Contact
+## Contact
 For any inquiries or feedback, feel free to reach out:
 
 Email: minh.trancao30@gmail.com
